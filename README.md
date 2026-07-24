@@ -13,7 +13,7 @@ I'm passionate about Full Stack development and, more broadly, everything relate
 - 🖥️ Also into desktop development with C# / .NET
 - 🌱 Currently learning Docker and Kubernetes
 
-<img aling="right" src="https://ghstats.dev/api/card?username=Joeldev0208" alt="GitHub Stats Card" />
+<img align="right" src="https://ghstats.dev/api/card?username=Joeldev0208&custom_title=All+my+stats" alt="GitHub Stats Card" />
 
 ### Tech Stack
 
