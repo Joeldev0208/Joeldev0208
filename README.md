@@ -13,6 +13,8 @@ I'm passionate about Full Stack development and, more broadly, everything relate
 - 🖥️ Also into desktop development with C# / .NET
 - 🌱 Currently learning Docker and Kubernetes
 
+<img aling="right" src="https://ghstats.dev/api/card?username=Joeldev0208" alt="GitHub Stats Card" />
+
 ### Tech Stack
 
 **Languages**
@@ -51,13 +53,6 @@ I'm passionate about Full Stack development and, more broadly, everything relate
 |[Project name](https://github.com/your-username/project)|Brief description of what it does and what problem it solves|C#, .NET|
 
 ---
-
-## GitHub Stats
-
-<img src="https://ghstats.dev/api/card?username=Joeldev0208" alt="GitHub Stats Card" />
-
----
-
 ## Contact
 
 <!-- Replace the links with your own, or remove the ones you don't use -->
