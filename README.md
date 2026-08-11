@@ -48,7 +48,7 @@ I'm passionate about Full Stack development and, more broadly, everything relate
 
 |Project|Description|Technologies|
 |---|---|---|
-|[Project name](https://github.com/your-username/project)|Brief description of what it does and what problem it solves|TypeScript, Node.js|
+|[Learn-Assist](https://github.com/Joeldev0208/learn-Assist)|An AI that teaches you about anything, all in one place|C#, .NET|
 |[Project name](https://github.com/your-username/project)|Brief description of what it does and what problem it solves|React, Supabase|
 |[Project name](https://github.com/your-username/project)|Brief description of what it does and what problem it solves|C#, .NET|
 
