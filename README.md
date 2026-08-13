@@ -40,6 +40,8 @@ I'm passionate about Full Stack development and, more broadly, everything relate
 **Currently Learning**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Static Badge](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 
 ---
 
