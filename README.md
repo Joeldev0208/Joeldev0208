@@ -11,7 +11,7 @@ I'm passionate about Full Stack development and, more broadly, everything relate
 - 🎓 Systems student
 - 💻 Focused on TypeScript, JavaScript, and Python
 - 🖥️ Also into desktop development with C# / .NET
-- 🌱 Currently learning Docker and Kubernetes
+- 🌱 Currently learning Mongo DB and Kubernetes
 
 <img align="right" src="https://ghstats.dev/api/card?username=Joeldev0208&custom_title=All+my+stats" alt="GitHub Stats Card" />
 
